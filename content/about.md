@@ -26,7 +26,7 @@ I am a polymer engineer with interests in technology, fitness, programming, and 
 ## Reading
 
 I enjoy books and essays that explore history, society, and human behavior. Some authors whose work I have found particularly interesting include 
-Yuval Noah Harari, Jared Diamond and Thomas Sowell.
+Yuval Noah Harari, Gurwinder Bhogal and Thomas Sowell.
 
 ## Note
 
