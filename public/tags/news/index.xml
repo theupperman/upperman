@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on upperman.in</title>
+    <link>//localhost:1313/tags/news/</link>
+    <description>Recent content in News on upperman.in</description>
+    <generator>Hugo</generator>
+    <language>en-in</language>
+    <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Russell’s conjugation: The hidden language of news bias</title>
+      <link>//localhost:1313/writings/russels_conjugation/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writings/russels_conjugation/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I am firm; you are obstinate; he is a pig-headed fool.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
