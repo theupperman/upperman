@@ -7,7 +7,7 @@ tags: ["upperman"]
 ---
 > I teach you the Übermensch. Man is something that shall be overcome.
 
-The name of this website - Upperman -  is a deliberate mistranslation of the concept of *Übermensch* from German philosopher Nietzsche’s work *Thus Spoke Zarathustra.* 
+The  name of this website - The  Upperman -  is a deliberate mistranslation of the concept of *Übermensch* from German philosopher Nietzsche’s work *Thus Spoke Zarathustra.* 
 A more accurate English translation would be something like “Superman,” but that comes with the heavy baggage of the comic book character.
 
 So, what is the *Übermensch* all about?

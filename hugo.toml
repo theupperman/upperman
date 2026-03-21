@@ -1,6 +1,6 @@
 baseURL = 'https://theupperman.in/'
 languageCode = 'en-in'
-title = 'upperman.in'
+title = 'theupperman.in'
 
 theme = "paper"
 
